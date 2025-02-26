@@ -1,0 +1,9 @@
+"""FlowLens is an open-source MCP server that gives your coding"""
+
+
+def main() -> None:
+    print("ok")
+
+
+if __name__ == "__main__":
+    main()
